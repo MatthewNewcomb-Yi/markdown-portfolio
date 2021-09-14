@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+### A few of my favorite things
+* Video Games 
+* Tabletop Games
+* Animals
+* Asian Food
+* Programming
+* Books
